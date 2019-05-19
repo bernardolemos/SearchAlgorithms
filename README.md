@@ -8,8 +8,9 @@
 * Breadth First Search (BFS)
 
 ## The 8 game
-### _The 8 game_ is a table game that given an initial and table states, the goal is to manipulate the inital table so that the final configuration is reached.
-### A table consists of 9 cells, a _3x3_ matrix. Each cell is, except one, contains a number. One must move the cells around in such a way that the target table is reached. This is achieved by moving the empty cell up, down, right or left, one step at a time.
+ _The 8 game_ is a table game that given an initial and table states, the goal is to manipulate the inital table so that the final configuration is reached.
+ 
+ A table consists of 9 cells, a _3x3_ matrix. Each cell is, except one, contains a number. One must move the cells around in such a way that the target table is reached. This is achieved by moving the empty cell up, down, right or left, one step at a time.
 ### **Example**:
 
  

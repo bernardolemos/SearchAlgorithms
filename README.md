@@ -11,19 +11,19 @@
  _The 8 game_ is a table game that given an initial and final table states, the goal is to manipulate the inital table so that the final configuration is reached.
  
  A table consists of 9 cells, a _3x3_ matrix. Each cell, except one, contains a number. One must move the cells around in such a way that the target table is reached. This is achieved by moving the empty cell up, down, right or left, one step at a time.
-### **Example**:
+### **Example**
 
 _Initial table_
-|1|2|3 |
-|--|--|--|
-|8|0|4
-|7|6|5|
+1|2|3 
+--|--|--
+8|0|4
+7|6|5
 
 _Target table_
-|6|2|7|
-|--|--|--|
-|5|0|3|
-|8|1|4|
+6|2|7
+--|--|--
+5|0|3
+8|1|4
 
 One must move the _empty cell_ around, `0`, starting from the _initial table configuration_ to the _target table configuration_.
 

@@ -13,11 +13,6 @@
  A table consists of 9 cells, a _3x3_ matrix. Each cell, except one, contains a number. One must move the cells around in such a way that the target table is reached. This is achieved by moving the empty cell up, down, right or left, one step at a time.
 ### **Example**
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
 _Initial table_
 
 1 | 2 | 3 

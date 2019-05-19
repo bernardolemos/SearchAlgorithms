@@ -41,7 +41,9 @@ _AppliedSearch_ expects three lines of input, using the examples above:
 * `IDFS`: `3`
 * `Greedy`: `4`
 * `A*`: `5`
+
 **_Note_**_: for this implementation a configuration's numbers must range from 0 to 8._
+
 ### Ouput
 The system returns the `depth` and `path`/`plays` of the solution. The `path`reflects the empty cell's movements.
 * `Up`: `U`

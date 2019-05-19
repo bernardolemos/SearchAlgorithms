@@ -52,7 +52,8 @@ The system returns the `depth` and `path`/`plays` of the solution. The `path`ref
 * `Down`: `D`
 * `Left`: `L`
 * `Right`: `R`
-Try _Config1.txt_. Applies A* search to examples.
+
+#### Try _Config1.txt_. Applies A* search to examples.
 ```
-java AppliedSearch < Configuration2.txt
+java AppliedSearch < Config1.txt
 ```

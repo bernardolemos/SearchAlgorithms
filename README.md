@@ -17,14 +17,14 @@ _Initial table_
 
 1 | 2 | 3 
 -- |-- |--
-8 | 0 | 4
+8 | `0` | 4
 7 | 6 | 5
 
 _Target table_
 
 6 | 2 | 7
 -- | -- | --
-5 | 0 | 3
+5 | `0` | 3
 8 | 1 | 4
 
 One must move the _empty cell_ around, `0`, starting from the _initial table configuration_ to the _target table configuration_.

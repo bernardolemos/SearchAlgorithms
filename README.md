@@ -1,7 +1,7 @@
 # Search Algorithms in JAVA
 ## Implementation of several search algorithms applied to _The 8 game_
 ## Algorithms:
-* A* (A star) search
+* A* (A star) Search
 * Greedy Search
 * Depth First Search (DFS)
 * Iterative Depth First Search (IDFS)
@@ -13,19 +13,19 @@
  A table consists of 9 cells, a _3x3_ matrix. Each cell, except one, contains a number. One must move the cells around in such a way that the target table is reached. This is achieved by moving the empty cell up, down, right or left, one step at a time.
 ### **Example**:
 
- 
 _Initial table_
 |1|2|3 |
 |--|--|--|
 |8|0|4
 |7|6|5|
-_Target table_ ad input: 6 2 7 5 0 3 8 1 4
+
+_Target table_
 |6|2|7|
 |--|--|--|
 |5|0|3|
 |8|1|4|
 
-Here, one must move the _empty ceel_ around, `0`, starting from the _initial table configuration_ to the _target table configuration_.
+One must move the _empty cell_ around, `0`, starting from the _initial table configuration_ to the _target table configuration_.
 
 ## Usage
 

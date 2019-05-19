@@ -19,12 +19,14 @@ Markdown | Less | Pretty
 1 | 2 | 3
 
 _Initial table_
+
 1 | 2 | 3 
 -- |-- |--
 8 | 0 | 4
 7 | 6 | 5
 
 _Target table_
+
 6 | 2 | 7
 -- | -- | --
 5 | 0 | 3

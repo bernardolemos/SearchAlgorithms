@@ -10,7 +10,7 @@
 ## The 8 game
  _The 8 game_ is a table game that given an initial and final table states, the goal is to manipulate the inital table so that the final configuration is reached.
  
- A table consists of 9 cells, a _3x3_ matrix. Each cell is, except one, contains a number. One must move the cells around in such a way that the target table is reached. This is achieved by moving the empty cell up, down, right or left, one step at a time.
+ A table consists of 9 cells, a _3x3_ matrix. Each cell, except one, contains a number. One must move the cells around in such a way that the target table is reached. This is achieved by moving the empty cell up, down, right or left, one step at a time.
 ### **Example**:
 
  
@@ -41,6 +41,7 @@ _AppliedSearch_ expects three lines of input, using the examples above:
 * `IDFS`: `3`
 * `Greedy`: `4`
 * `A*`: `5`
+**_Note_**_: for this implementation a configuration's numbers must range from 0 to 8._
 ### Ouput
 The system returns the `depth` and `path`/`plays` of the solution. The `path`reflects the empty cell's movements.
 * `Up`: `U`

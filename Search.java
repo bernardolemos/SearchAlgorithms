@@ -99,7 +99,7 @@ public class Search extends List{
 		int depth=0;
 		String path=new String();
 		while(!table_list.isEmpty()){
-			List child_nodes=new List(); // !!! fora do loop
+			List child_nodes=new List();
 			path=table_list.getPath();
 			depth=table_list.getDepth();
 			current_table=table_list.remove();
